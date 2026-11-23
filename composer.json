@@ -1,0 +1,1 @@
+{"name":"jawadahmed91/laravel-sla-management","description":"Business-hours SLA deadline calculator for Laravel 13","type":"library","license":"MIT","require":{"php":"^8.3","nesbot/carbon":"^3.0"},"require-dev":{"phpunit/phpunit":"^12.0"},"autoload":{"psr-4":{"JawadAhmed\\Sla\\":"src/"}},"autoload-dev":{"psr-4":{"Tests\\":"tests/"}},"scripts":{"test":"phpunit"}}
